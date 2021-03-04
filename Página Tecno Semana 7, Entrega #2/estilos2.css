@@ -1,0 +1,296 @@
+@font-face{
+	font-family: letra5;
+	src: url(letra5.ttf);
+}
+.e1{
+	position: absolute;
+	top: 422%;
+	left: 2%;
+	width: 20%;
+	height: 10%;
+}
+.su1{
+	position: absolute;
+	font-family: letra5;
+	color: #FDD85B;
+	font-size: 330%; 
+}
+.ee2{
+	position: absolute;
+	top: 436%;
+	left: 2%;
+	width: 20%;
+	height: 10%;
+}
+.co1{
+	position: absolute;
+	font-family: letra5;
+	color: #FDD85B;
+	font-size: 330%; 
+}
+.e3{
+	position: absolute;
+	top: 450%;
+	left: 2%;
+	width: 20%;
+	height: 10%;
+}
+.pro{
+	position: absolute;
+	font-family: letra5;
+	color: #FDD85B;
+	font-size: 330%;
+}
+.e4{
+	position: absolute;
+	top: 422%;
+	right: 2%;
+	width: 20%;
+	height: 10%;
+}
+.su2{
+	position: absolute;
+	font-family: letra5;
+	color: #FDD85B;
+	font-size: 330%; 
+}
+.e5{
+	position: absolute;
+	top: 436%;
+	right: 2%;
+	width: 20%;
+	height: 10%;
+}
+.co2{
+	position: absolute;
+	font-family: letra5;
+	color: #FDD85B;
+	font-size: 330%; 
+}
+.e6{
+	position: absolute;
+	top: 450%;
+	right: 2%;
+	width: 20%;
+	height: 10%;
+}
+.al{
+	position: absolute;
+	font-family: letra5;
+	color: #FDD85B;
+	font-size: 330%;
+}
+.im2{
+	position: absolute;
+	top: -70%;
+	left: -990%;
+	height: 2030%;
+	width: 2440%; 
+	display: none;
+}
+.im3{
+	position: absolute;
+	top: 530%;
+	left: 1200%; 
+	display: none;
+}
+.lin2:hover .im2{
+    display: block;
+}
+.lin2:hover .im3{
+    display: block;
+}
+.im4{
+	position: absolute;
+	top: 500%;
+	left: -200%; 
+	width: 750%;
+	height: 970%;
+	display: none;
+}
+.lin3:hover .im4{
+    display: block;
+}
+.im5{
+	position: absolute;
+	top: 700%;
+	left: -2000%; 
+	width: 1630%;
+	height: 500%;
+	display: none;
+}
+.lin3:hover .im5{
+    display: block;
+}
+.imbot1{
+	position: absolute;
+	top: 190%;
+	left: 20%;
+	display: none;
+}
+.bot1:hover .imbot1{
+    display: block;
+}
+.im2bot1{
+	position: absolute;
+	top: 520%;
+	left: 120%;
+	width: 100%;
+	height: 340%;
+	display: none;
+}
+.bot1:hover .im2bot1{
+    display: block;
+}
+.vid1{
+	width: 60%;
+	height: 30%;
+	top: 450%;
+	left: 0%;
+}
+.im6{
+	position: absolute;
+	top: 150%;
+	height: 440%;
+	width: 240%;
+	left: -105%;
+	display: none;
+}
+.im7{
+	position: absolute;
+	top: 600%;
+	left: -90%;
+	display: none;
+}
+.im8{
+	position: absolute;
+    top: 200%;
+    left: 12%;
+    width: 190%;
+    height: 390%;
+    display: none;
+}
+.im9{
+	position: absolute;
+    top: 650%;
+    left: 15%;
+    display: none;
+}
+.bot2:hover .im6{
+    display: block;
+}
+.bot2:hover .im7{
+	display: block;
+}
+.bot2:hover .im8{
+	display: block;
+}
+.bot2:hover .im9{
+	display: block;
+}
+.im10{
+	position: absolute;
+	left: -220%;
+	top: 100%;
+	width: 130%;
+	height: 125%;
+	display: none;
+}
+.im11{
+	position: absolute;
+	left: -85%;
+	top: 140%;
+	width: 200%;
+	height: 400%;
+	display: none;
+}
+.im12{
+	position: absolute;
+	top: 250%;
+	left: -180%;
+	display: none;
+}
+.bot3:hover .im10{
+	display: block;
+}
+.bot3:hover .im11{
+	display: block;
+}
+.bot3:hover .im12{
+	display: block;
+}
+.linea4{
+	position: absolute;
+	top: 485%;
+	left: 0%;
+	width: 100%;
+    height: 2%;
+    background-color: #A049F1;
+}
+.l1{
+	position: absolute;
+	top: 40%;
+	left: 97%;
+	width: 277%;
+	height: 540%;
+	display: none;
+}
+.e1:active .l1{
+	display: block;
+}
+.l2{
+	position: absolute;
+	top: -80%;
+	left: 97%;
+	width: 277%;
+	height: 540%;
+	display: none;
+}
+.ee2:active .l2{
+	display: block;
+}
+.l3{
+	position: absolute;
+	top: -220%;
+	left: 97%;
+	width: 277%;
+	height: 540%;
+	display: none;
+}
+.e3:active .l3{
+	display: block;
+}
+.l4{
+	position: absolute;
+	top: 40%;
+	left: -283%;
+	width: 277%;
+	height: 540%;
+	display: none;
+}
+.e4:active .l4{
+	display: block;
+}
+.l5{
+	position: absolute;
+	top: -80%;
+	left: -283%;
+	width: 277%;
+	height: 540%;
+	display: none;
+}
+.e5:active .l5{
+	display: block;
+}
+.l6{
+	position: absolute;
+	top: -220%;
+	left: -283%;
+	width: 277%;
+	height: 540%;
+	display: none;
+}
+.e6:active .l6{
+	display: block;
+}
+
